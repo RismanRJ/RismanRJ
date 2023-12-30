@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rismanshanker21@gmail.com**
 
-- 📄 Know about my experiences [I am currently working as a freelancer and contact me for more projects.](I am currently working as a freelancer and contact me for more projects.)
+- 📄 Know about my experiences [I am currently working as a freelancer and contact me for more projects.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
