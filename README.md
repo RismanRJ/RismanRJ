@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rismanrj" alt="rismanrj" /></a> </p>
 
-- 🔭 I’m currently working on **DOCORE**
-
 - 🌱 I’m currently learning **MERN Stack and deep learning in Backend services**
 
 - 👯 I’m looking to collaborate on **web related projects**
