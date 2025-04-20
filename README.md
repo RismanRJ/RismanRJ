@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web related projects**
 
-- 👨‍💻 All of my projects are available at [https://rismanrj.github.io/firstproject/](https://rismanrj.github.io/firstproject/)
+- 👨‍💻 All of my projects are available at [https://rismanrj.github.io/portfolio/](Portfolio)
 
 - 📫 How to reach me **rismanshanker21@gmail.com**
 
