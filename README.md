@@ -17,7 +17,7 @@ Backend Software Engineer with 1.5+ years of experience building low-latency, ev
 - 🏗️ Owned the migration to an in-house data platform (Airbyte, Airflow, dbt, Redshift) on EKS
 - 🤖 Building AI tooling: an autonomous SRE on-call agent and a sandboxed agentic web scraper
 - 🏆 3rd place, TNCPL AI Hackathon (82,000+ participants) · LeetCode 1594, 400+ problems solved
-- 🌐 All my projects: **https://risman-portfolio.vercel.app/**
+- 🌐 All my projects: **https://risman-dev.vercel.app/**
 - 📫 Reach me: **rismanshanker21@gmail.com**
 
 ## Tech stack
