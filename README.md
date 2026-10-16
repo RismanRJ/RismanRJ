@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer · Distributed Systems · Node.js · Python · AWS</h3>
 
 <p align="center">
-  <a href="https://risman-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-risman--portfolio.vercel.app-34d399?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://risman-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-risman--portfolio.vercel.app-34d399?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/risman21/"><img src="https://img.shields.io/badge/LinkedIn-risman21-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rismanshanker21@gmail.com"><img src="https://img.shields.io/badge/Email-rismanshanker21@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
  <img src="https://hits.sh/github.com/RismanRJ.svg?style=flat&label=Profile%20views&color=34d399" alt="Profile views" />
